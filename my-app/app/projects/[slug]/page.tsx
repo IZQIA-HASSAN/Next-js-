@@ -1,8 +1,12 @@
 import React from 'react'
 
+interface pageprop{
+    
+}
+
 const page = () => {
   return (
-    <div> settings Page</div>
+    <div>page</div>
   )
 }
 
