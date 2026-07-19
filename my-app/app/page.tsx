@@ -1,8 +1,9 @@
 import React from 'react'
+import AddTodoForm from './components/AddTodoForm'
 
 const page = () => {
   return (
-    <div>this is the main home page</div>
+    <div><AddTodoForm/></div>
   )
 }
 
